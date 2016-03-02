@@ -1,1 +1,4 @@
 node_modules
+slidebox/node_modules/
+slidebox/platforms/
+slidebox/plugins/
